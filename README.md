@@ -482,7 +482,7 @@ namespace WeatherApp
 }
 ```
 
-Код ConsoleApp2 (Program.cs):
+Код ConsoleApp1 (Program.cs):
 ```
 // Указываем путь к файлу, содержащему данные о городах
 string cityPath = "C:\\Users\\Фукс\\Desktop\\C#\\Lb_3_9\\Lb_09\\files\\city.txt";
